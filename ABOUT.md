@@ -23,3 +23,7 @@ Reading Week | Mon. 19 February 2018 | Pickup outside Peter's Building
 
 ### EXECUTIVES
 
+Position | Name | Photo
+:------------: | :-------------: | :-------------:
+President | Jacob Vermey | N/A
+Vice-President | Nikhil Venugopal | N/A

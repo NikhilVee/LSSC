@@ -23,7 +23,8 @@ Reading Week | Mon. 19 February 2018 | Pickup outside Peter's Building
 
 ### EXECUTIVES
 
-Position | Name | Photo
-:------------: | :-------------: | :-------------:
-President | Jacob Vermey | N/A
-Vice-President | Nikhil Venugopal | N/A
+Position | Name | Contact | Photo
+:------------: | :-------------: | :-------------: | :----------------:
+President | Jacob Vermey | verm9870@mylaurier.ca | N/A
+Vice-President | Nikhil Venugopal | venu0120@mylaurier.ca | N/A
+> For any urgent requests, please e-mail either the President or the Vice-President

@@ -1,1 +1,10 @@
+# basic options
+title: Laurier Ski and Snowboard Club
+author: Nikhil Venugopal and Jacob Vermey
+email: venu0120@mylaurier
+description: Real-time information regarding all LSSC activities, events, and news.
+twitter_username: laurierskiboard
+github_username:  nikhilvee
+
+# Build settings
 theme: jekyll-theme-cayman

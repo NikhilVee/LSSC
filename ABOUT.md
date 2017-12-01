@@ -22,5 +22,4 @@ Weekly Trip | Sat. 3 February 2018 | Pickup outside Peter's Building
 Weekly Trip | Sat. 10 February 2018 | Pickup outside Peter's Building
 Weekly Trip | Sat. 17 February 2018 | Pickup outside Peter's Building
 Reading Week | Mon. 19 February 2018 | Pickup outside Peter's Building
-
 > More boothing sessions to be posted
